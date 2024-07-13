@@ -31,9 +31,12 @@
 ![image](./images/PortfolioHAN_2024_321_resize.jpg)
 
 ## PANGYA
-![image](./images/PortfolioHAN_2024_331_resize.jpg)
-![image](./images/PortfolioHAN_2024_332_resize.jpg)
-![image](./images/PortfolioHAN_2024_341_resize.jpg)
+![image](./images/PortfolioHAN_2024_331_1_resize.jpg)
+![image](./images/PortfolioHAN_2024_331_2_resize.jpg)
+![image](./images/PortfolioHAN_2024_331_3_resize.jpg)
+![image](./images/PortfolioHAN_2024_331_4_resize.jpg)
+![image](./images/PortfolioHAN_2024_331_5_resize.jpg)
+![image](./images/PortfolioHAN_2024_331_6_resize.jpg)
 
 ## ETC
 ![image](./images/PortfolioHAN_2024_811_resize.jpg)
