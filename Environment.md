@@ -1,10 +1,6 @@
 # Environment
 ![image](./images/PortfolioHAN_2024_000_resize.jpg)
 
-## index
-- Project-A2
-- Project-H
-
 ## Project-A2
 ![image](./images/PortfolioHAN_2024_111_G_resize.jpg)
 ![image](./images/PortfolioHAN_2024_112_G_resize.jpg)
