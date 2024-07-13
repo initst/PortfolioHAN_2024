@@ -16,9 +16,17 @@
 
 ## Savoi Island
 ![image](./images/PortfolioHAN_2024_221_resize.jpg)
+![image](./images/021_resize.jpg)
+![image](./images/022_resize.jpg)
+![image](./images/023_resize.jpg)
+![image](./images/024_resize.jpg)
 
 ## Project-T
 ![image](./images/PortfolioHAN_2024_231_resize.jpg)
+![image](./images/031_resize.jpg)
+![image](./images/032_resize.jpg)
+![image](./images/033_resize.jpg)
+![image](./images/034_resize.jpg)
 
 ## Monarch Online
 ![image](./images/PortfolioHAN_2024_311_resize.jpg)
