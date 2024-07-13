@@ -8,7 +8,7 @@
 - Project-T
 - Monarch
 
-ARTMAN
-Pangya
+- ARTMAN
+- Pangya
 
-ETC
+- ETC
