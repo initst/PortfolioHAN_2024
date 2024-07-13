@@ -3,6 +3,6 @@
 
 - [Environment](https://github.com/initst/PortfolioHAN_2024/blob/main/Environment.md)
 
-- [Technical Art]
+- [Technical Art](https://github.com/initst/PortfolioHAN_2024/blob/main/Technical_ART.md)
 
 - Directing
