@@ -32,6 +32,9 @@
 ![image](./images/PortfolioHAN_2024_321_resize.jpg)
 
 ## PANGYA
+![image](./images/PortfolioHAN_2024_331_resize.jpg)
+![image](./images/PortfolioHAN_2024_332_resize.jpg)
+![image](./images/PortfolioHAN_2024_341_resize.jpg)
 
 ## ETC
 ![image](./images/PortfolioHAN_2024_811_resize.jpg)
