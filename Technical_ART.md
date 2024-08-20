@@ -2,6 +2,8 @@
 
 ![image](./images/Prot38.jpg)
 
+---
+
 ## BRDF : 비교
 ![image](./images/Prot39.jpg)
 
