@@ -4,7 +4,7 @@
 - [Environment](https://github.com/initst/PortfolioHAN_2024/blob/main/Environment.md)
 
 - [Shader](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader.md)
-  - [Shader Basic]
+  - [Basic]
   - [Enviornment]
   - [Optimize]
   - [Postprocess]
