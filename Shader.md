@@ -38,8 +38,7 @@
 ![image](./images/Prot59.JPG)
 
 ## Effect & Material
-![image](./images/Prot47.jpg)
-![image](./images/Prot48.jpg)
+
 
 ### BRDF
 
