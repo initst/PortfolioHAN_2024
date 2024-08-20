@@ -3,7 +3,7 @@
 
 - [Environment](https://github.com/initst/PortfolioHAN_2024/blob/main/Environment.md)
 
-- [Technical Art](https://github.com/initst/PortfolioHAN_2024/blob/main/Technical_ART.md)
+- [Technical Art](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader.md)
 
 - Directing
 
