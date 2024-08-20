@@ -36,7 +36,7 @@
 ![image](./images/PortfolioHAN_2024_411_resize.jpg)
 ![image](./images/PortfolioHAN_2024_321_resize.jpg)
 
-## PANGYA
+## PANGYA-M
 ![image](./images/PortfolioHAN_2024_331_1_resize.jpg)
 ![image](./images/PortfolioHAN_2024_331_2_resize.jpg)
 ![image](./images/PortfolioHAN_2024_331_3_resize.jpg)
