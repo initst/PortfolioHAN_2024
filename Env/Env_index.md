@@ -12,7 +12,7 @@
 - #### PANGYA-M
 - #### HAPPY CAR
 
-## [Rendering](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_Rendering)
+## [Rendering](https://github.com/initst/PortfolioHAN_2024/blob/main/Env/Env_Rendering.md)
 - #### Trophies
 - #### Let's POKER
 - #### Architecture
