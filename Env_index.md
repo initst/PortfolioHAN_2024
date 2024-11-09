@@ -8,8 +8,8 @@
 - #### Monarch Online
 
 ## NPR Projgect
-#### ARTMAN
-#### PANGYA-M
+- #### ARTMAN
+- #### PANGYA-M
 
 ## Rendering Project
 
