@@ -14,4 +14,4 @@
 ## [Rendering](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_Rendering)
 
 
-## [Scene](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_ETC.md)
+## [Scene](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_Scene.md)
