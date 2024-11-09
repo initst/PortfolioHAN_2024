@@ -1,7 +1,6 @@
 # Shader : HLSL 코딩
 
 ![image](./images/Prot38.webp)
-![image](./images/PortfolioHAN_2024_111_G.webp)
 
 ## BRDF : 비교
 ![image](./images/Prot39.webp)
