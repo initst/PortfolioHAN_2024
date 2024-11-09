@@ -11,7 +11,3 @@
   - [Optimize]
   - [Postprocess]
   - [Res]
-
-- Directing
-
-- Rendering
