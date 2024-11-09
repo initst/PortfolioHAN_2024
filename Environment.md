@@ -10,7 +10,7 @@
 ![image](./images/PortfolioHAN_2024_117_G_resize.jpg)
 
 ## Project-H
-![image](Ver_1.1.5_haygnwon01.webp)
+![image](./images/Ver_1.1.5_haygnwon01.webp)
 ![image](./images/PortfolioHAN_2024_211_resize.jpg)
 ![image](./images/PortfolioHAN_2024_212_resize.jpg)
 ![image](./images/PortfolioHAN_2024_213_resize.jpg)
