@@ -13,22 +13,14 @@
 ![image](./images/Ver_1.1.5_haygnwon01.webp)
 ![image](./images/Ver_1.1.5_haygnwon02.webp)
 ![image](./images/Ver_1.1.5_haygnwon03.webp)
-![image](./images/PortfolioHAN_2024_211_resize.jpg)
-![image](./images/PortfolioHAN_2024_212_resize.jpg)
-![image](./images/PortfolioHAN_2024_213_resize.jpg)
 
 ## Savoi Island
 ![image](./images/Ver_1.1.5_savoi01.webp)
 ![image](./images/Ver_1.1.5_savoi02.webp)
 ![image](./images/Ver_1.1.5_savoi03.webp)
 ![image](./images/Ver_1.1.5_savoi04.webp)
-![image](./images/021_resize.jpg)
-![image](./images/022_resize.jpg)
-![image](./images/023_resize.jpg)
-![image](./images/024_resize.jpg)
 
 ## Project-T
-![image](./images/Ver_1.1.5._T01.webp)
 ![image](./images/Ver_1.1.5._T02.webp)
 ![image](./images/Ver_1.1.5._T03.webp)
 ![image](./images/Ver_1.1.5._T04.webp)
@@ -37,10 +29,6 @@
 ![image](./images/Ver_1.1.5._T07.webp)
 ![image](./images/Ver_1.1.5._T08.webp)
 ![image](./images/Ver_1.1.5._T09.webp)
-![image](./images/031_resize.jpg)
-![image](./images/032_resize.jpg)
-![image](./images/033_resize.jpg)
-![image](./images/034_resize.jpg)
 
 ## Monarch Online
 ![image](./images/PortfolioHAN_2024_311_resize.jpg)
