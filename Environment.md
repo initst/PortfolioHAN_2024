@@ -18,6 +18,10 @@
 ![image](./images/PortfolioHAN_2024_213_resize.jpg)
 
 ## Savoi Island
+![image](./images/Ver_1.1.5_savoi01.webp)
+![image](./images/Ver_1.1.5_savoi02.webp)
+![image](./images/Ver_1.1.5_savoi03.webp)
+![image](./images/Ver_1.1.5_savoi04.webp)
 ![image](./images/021_resize.jpg)
 ![image](./images/022_resize.jpg)
 ![image](./images/023_resize.jpg)
