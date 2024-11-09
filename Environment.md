@@ -39,8 +39,6 @@
 ## ARTMAN
 ![image](./images/PortfolioHAN_2024_411.webp)
 ![image](./images/PortfolioHAN_2024_321.webp)
-![image](./images/PortfolioHAN_2024_411_resize.jpg)
-![image](./images/PortfolioHAN_2024_321_resize.jpg)
 
 ## PANGYA-M
 ![image](./images/PortfolioHAN_2024_331_1_resize.jpg)
