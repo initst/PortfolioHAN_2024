@@ -24,7 +24,7 @@
 ![image](./images/Prot50.webp)
 
 ## Skin Material : Unreal Engine
-![image](./images/Prot52.jpg)
+![image](./images/Prot52.webp)
 
 ## Landscape : Unreal Engine
 ![image](./images/Prot53.jpg)
