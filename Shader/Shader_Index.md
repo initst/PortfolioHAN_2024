@@ -8,6 +8,6 @@
 
 ## [Environment](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/NPR.md)
 
-## [Postproces]
+## Postproces
 
-## [Res](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/Stencil.md)
+## Res
