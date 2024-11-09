@@ -35,10 +35,6 @@
 ![image](./images/PortfolioHAN_2024_312.webp)
 ![image](./images/PortfolioHAN_2024_313.webp)
 ![image](./images/PortfolioHAN_2024_314.webp)
-![image](./images/PortfolioHAN_2024_311_resize.jpg)
-![image](./images/PortfolioHAN_2024_312_resize.jpg)
-![image](./images/PortfolioHAN_2024_313_resize.jpg)
-![image](./images/PortfolioHAN_2024_314_resize.jpg)
 
 ## ARTMAN
 ![image](./images/PortfolioHAN_2024_411_resize.jpg)
