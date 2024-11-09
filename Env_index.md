@@ -12,7 +12,7 @@
 - #### ARTMAN
 - #### PANGYA-M
 
-## [Rendering](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_Real.md)
+## [Rendering](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_Rendering)
 ## Rendering Project
 
 ## [ETC](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_Real.md)
