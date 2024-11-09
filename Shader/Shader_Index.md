@@ -2,10 +2,9 @@
 
 ![image](./images/Prot38.webp)
 
-## BRDF : 비교
-- [BRDF](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/BRDF.md)
+## - [BRDF : 비교](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/BRDF.md)
 
-## Lighting
+## - [Lighting](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/Lighting.md)
 
 #### Lighting Model : Basic Lighting Model
 #### Rim Lighting : Hologram
