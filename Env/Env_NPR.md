@@ -11,6 +11,8 @@
 ![image](./images/Portfolio_2024_1920_0028_Portfolio_한정욱_ver3.4-3754_openning_04.webp)
 ![image](./images/Portfolio_2024_1920_0029_Portfolio_한정욱_ver3.4-3755_openning_05.webp)
 ![image](./images/Portfolio_2024_1920_0030_Portfolio_한정욱_ver3.4-3756_openning_06.webp)
+
+![image](./images/[CA] 로비_수정 테스트 비교이미지_201123_01.webp)
 ![image](./images/Portfolio_2024_1920_0031_Portfolio_한정욱_ver3.4-3761_Tiki_New.webp)
 
 ## HAPPYCAR
