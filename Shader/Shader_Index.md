@@ -4,10 +4,10 @@
 
 ## - [BRDF : 비교](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/BRDF.md)
 
-## - [Lighting](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/Lighting.md)
+## - [Lighting Model](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/Lighting.md)
 
-#### Lighting Model : Basic Lighting Model
-#### Rim Lighting : Hologram
+  #### Lighting Model : Basic Lighting Model
+  #### Rim Lighting : Hologram
 
 #### FlowMap
 
