@@ -2,10 +2,11 @@
 
 ![image](./images/Prot38.webp)
 
-#### BRDF : 비교
+## BRDF : 비교
+
+## Lighting
 
 #### Lighting Model : Basic Lighting Model
-
 #### Rim Lighting : Hologram
 
 #### FlowMap
