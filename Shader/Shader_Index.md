@@ -2,42 +2,25 @@
 
 ![image](./images/Prot38.webp)
 
-## BRDF : 비교
-![image](./images/Prot39.webp)
+#### BRDF : 비교
 
-## Lighting Model : Basic Lighting Model
-![image](./images/Prot40.webp)
+#### Lighting Model : Basic Lighting Model
 
-![image](./images/Prot41.webp)
-![image](./images/Prot42.webp)
-![image](./images/Prot43.webp)
-![image](./images/Prot44.webp)
+#### Rim Lighting : Hologram
 
-## Rim Lighting : Hologram
-![image](./images/Prot45.webp)
-![image](./images/Prot46.webp)
+#### FlowMap
 
-## FlowMap
-![image](./images/Prot49.webp)
+#### Stencil
 
-## Stencil
-![image](./images/Prot50.webp)
+#### Skin Material : Unreal Engine
 
-## Skin Material : Unreal Engine
-![image](./images/Prot52.webp)
+#### Landscape : Unreal Engine
 
-## Landscape : Unreal Engine
-![image](./images/Prot53.jpg)
-![image](./images/Prot54.JPG)
-![image](./images/Prot55.JPG)
+#### World Mahcine : Landscape
 
-## World Mahcine : Landscape
-![image](./images/Prot56.JPG)
+#### NPR Shader 개선
 
-## NPR Shader 개선
-![image](./images/Prot59.JPG)
-
-## Effect & Material
+#### Effect & Material
 
 
 ### BRDF
