@@ -7,7 +7,7 @@
 - #### Project-T
 - #### Monarch Online
 
-## [NPR Project](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_Real.md)
+## [NPR Project](https://github.com/initst/PortfolioHAN_2024/blob/main/Env_NPR.md)
 ## NPR Projgect
 - #### ARTMAN
 - #### PANGYA-M
