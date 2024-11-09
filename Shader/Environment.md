@@ -1,4 +1,4 @@
-# Emvironment
+# Environment
 
 ## Rim Lighting : Hologram
 ![image](./images/Prot45.webp)
