@@ -4,6 +4,8 @@
 
 ## BRDF : 비교
 
+https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/BRDF.md
+
 ## Lighting
 
 #### Lighting Model : Basic Lighting Model
