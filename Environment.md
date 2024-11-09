@@ -8,13 +8,6 @@
 ![image](./images/PortfolioHAN_2024_115_G.webp)
 ![image](./images/PortfolioHAN_2024_116_G.webp)
 ![image](./images/PortfolioHAN_2024_117_G.webp)
-![image](./images/PortfolioHAN_2024_111_G_resize.jpg)
-![image](./images/PortfolioHAN_2024_112_G_resize.jpg)
-![image](./images/PortfolioHAN_2024_113_G_resize.jpg)
-![image](./images/PortfolioHAN_2024_114_G_resize.jpg)
-![image](./images/PortfolioHAN_2024_115_G_resize.jpg)
-![image](./images/PortfolioHAN_2024_116_G_resize.jpg)
-![image](./images/PortfolioHAN_2024_117_G_resize.jpg)
 
 ## Project-H
 ![image](./images/Ver_1.1.5_haygnwon01.webp)
