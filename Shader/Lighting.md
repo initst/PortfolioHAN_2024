@@ -1,9 +1,4 @@
-# Shader : HLSL 코딩
-
-![image](./images/Prot38.webp)
-
-## BRDF : 비교
-![image](./images/Prot39.webp)
+# Lighting
 
 ## Lighting Model : Basic Lighting Model
 ![image](./images/Prot40.webp)
