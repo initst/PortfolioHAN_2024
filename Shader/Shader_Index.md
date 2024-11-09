@@ -3,8 +3,7 @@
 ![image](./images/Prot38.webp)
 
 ## BRDF : 비교
-
-https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/BRDF.md
+- [BRDF](https://github.com/initst/PortfolioHAN_2024/blob/main/Shader/BRDF.md)
 
 ## Lighting
 
