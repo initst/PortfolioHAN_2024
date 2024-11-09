@@ -37,9 +37,9 @@
 ![image](./images/PortfolioHAN_2024_314.webp)
 
 #### Santcruise
-![image](./images/Ver_2.1_The Castle of Santacruz_C.webp)
+![image](./images/Ver_2.1_TheCastleofSantacruz_C.webp)
 
 #### Santafe
-![image](./images/Ver_2.1_The Castle of Santafe_A.webp)
+![image](./images/Ver_2.1_TheCastleofSantafe_A.webp)
 
 ## END
