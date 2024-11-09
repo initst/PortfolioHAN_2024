@@ -1,5 +1,5 @@
 ## Portfolio HAN
-![image](./images/PortfolioHAN_2024_000_resize.jpg)
+![image](./images/PortTitle_2024.webp)
 
 - [Environment](https://github.com/initst/PortfolioHAN_2024/blob/main/Env/Env_index.md)
 
