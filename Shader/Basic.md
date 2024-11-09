@@ -1,5 +1,5 @@
 # Basic
-![image](./images/bandicam 2021-03-31 14-54-00-218.webp)
+![image](./images/Shader_Model.webp)
 
 ## BRDF : 비교
 ![image](./images/Prot39.webp)
